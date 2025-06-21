@@ -1,0 +1,9 @@
+com\mlvisio\servlets\UploadProfilePictureServlet.class
+com\mlvisio\util\FirebaseInitializer.class
+util\PasswordHasher.class
+util\SeedUsers.class
+com\mlvisio\servlets\DashboardStatsServlet.class
+com\mlvisio\servlets\LoginServlet.class
+util\User.class
+com\mlvisio\mlvissiotrack\JakartaRestConfiguration.class
+com\mlvisio\mlvissiotrack\resources\JakartaEE10Resource.class
